@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Churikov Egor
-- 👀 I’m mobile application developer
+- 👀 I’m mobile application developer since March 2021
 - 🌱 Flutter/Dart
 - 📫 How to reach me: Saint-Petersburg, churikov.egor@bk.ru
 
