@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Churikov0112
-- 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m Churikov Egor
+- 👀 I’m mobile application developer
+- 🌱 Flutter/Dart
 - 📫 How to reach me: Saint-Petersburg, churikov.egor@bk.ru
 
 <!---
