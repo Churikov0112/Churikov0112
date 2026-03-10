@@ -12,8 +12,8 @@
 
 #### **🏗 Архитектура & State Management**
 ```
-• BLoC (Bloc, HydratedBloc)
-• GetIt
+• BLoC (Bloc, HydratedBloc, BlocConcurrency)
+• GetIt, Injectable
 • RxDart (Streams/BehaviorSubject, StreamBuilder)
 ```
 
@@ -31,7 +31,7 @@
 • REST API (dio, http)
 • GraphQL (graphql, artemis)
 • WebSocket (phoenix_socket)
-• Firebase (Realtime Database, Firestore)
+• Firebase (Realtime Database, Cloud Firestore)
 ```
 
 #### **💾 Локальное хранение & Базы данных**
@@ -46,7 +46,7 @@
 ```
 • **iOS**: Swift через Platform Channels, Live Activities, Dynamic Island, third-party SDKs
 • **Android**: Kotlin через Platform Channels, Remote Views, third-party SDKs
-• Пуш-уведомления: FCM (Firebase), локальные уведомления
+• Пуш-уведомления: FCM (Firebase), HMS (Huawei), локальные уведомления
 • Фоновые задачи: WorkManager, Background Location
 ```
 
