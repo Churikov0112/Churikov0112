@@ -22,7 +22,7 @@
 • MapLibre GL Flutter • Mapbox GL Flutter 
 • FwdMap (my own flutter package over mapLibre_gl plugin)
 • FlutterMap (Leaflet)
-• Move marker anomation over coordinates
+• Move marker animation over coordinates
 • Complex custom markers (even with animation)
 ```
 
