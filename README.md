@@ -45,8 +45,8 @@
 
 #### **📱 Platfoms & Native**
 ```
-• **iOS**: Swift через Platform Channels, Live Activities, Dynamic Island, third-party SDKs
-• **Android**: Kotlin через Platform Channels, Remote Views, third-party SDKs
+• iOS: Swift через Platform Channels, Live Activities, Dynamic Island, third-party SDKs
+• Android: Kotlin через Platform Channels, Remote Views, third-party SDKs
 • Пуш-уведомления: FCM (Firebase), HMS (Huawei), локальные уведомления
 • Фоновые задачи: WorkManager, Background Location
 ```
