@@ -1,32 +1,32 @@
-#### **👋 Кто я**
+#### **👋 About me**
 ```
-• Чуриков Егор
+• Egor Churikov
 • Flutter Developer | Mobile Architect | Engineer | Educator | Entrepreneur | Linuxiod
 ```
 
-#### **🎯 Основные технологии**
+#### **🎯 Main Stack**
 ```
 • Flutter
 • Dart
 ```
 
-#### **🏗 Архитектура & State Management**
+#### **🏗 Architecture & State Management**
 ```
 • BLoC (Bloc, HydratedBloc, BlocConcurrency)
 • GetIt, Injectable
 • RxDart (Streams/BehaviorSubject, StreamBuilder)
 ```
 
-#### **🗺 Картография (экспертная область)**
+#### **🗺 Cartography (my main expertise)**
 ```
 • MapLibre GL Flutter • Mapbox GL Flutter 
-• FwdMap (собственная библиотека на основе MapLibre)
+• FwdMap (my own flutter package over mapLibre_gl plugin)
 • FlutterMap (Leaflet)
-• Анимация маркеров по координатам
-• Сложные кастомные маркеры
+• Move marker anomation over coordinates
+• Complex custom markers (even with animation)
 ```
 
-#### **📡 Сетевое взаимодействие**
+#### **📡 Network connection**
 ```
 • REST API (dio, http)
 • GraphQL (graphql, artemis)
@@ -34,15 +34,16 @@
 • Firebase (Realtime Database, Cloud Firestore)
 ```
 
-#### **💾 Локальное хранение & Базы данных**
+#### **💾 Local Storage & Databases**
 ```
 • Hive
 • SharedPreferences
+• Secure Storage
 • Hydrated BLoC
 ```
 
 
-#### **📱 Платформенные возможности & Нативная интеграция**
+#### **📱 Platfoms & Native**
 ```
 • **iOS**: Swift через Platform Channels, Live Activities, Dynamic Island, third-party SDKs
 • **Android**: Kotlin через Platform Channels, Remote Views, third-party SDKs
@@ -50,27 +51,27 @@
 • Фоновые задачи: WorkManager, Background Location
 ```
 
-#### **🎨 UI/UX & Анимации**
+#### **🎨 UI/UX & Animations**
 ```
 • CustomPaint & Canvas
 • Анимации: Implicit/Explicit, Hero, Bottom Sheets
 • Responsive/Adaptive дизайн • Material 3/Cupertino
 ```
 
-#### **⚙️ DevOps & Инструменты**
+#### **⚙️ DevOps & Tools**
 ```
 • Аналитика: Firebase Analytics, Crashlytics, Yandex Metrics
 • Публикация: App Store Connect, Google Play Console, RuStore
 ```
 
-#### **🌐 Дополнительные технологии**
+#### **🌐 Other **
 ```
 • Интернационализация: intl, locale
 • Навигация: go_router, bottom_sheets (even on map)
 • Работа с медиа: camera, image_picker, video_player, audioplayers, 3d viewer
 ```
 
-#### **💾 Веб-скраппинг и обработка данных**
+#### **💾 We-scrapping и data processing**
 ```
 • Octoparse
 • Python
@@ -80,7 +81,7 @@
 
 #### **🧑‍🎓 Bachelor**
 ```
-- Университет ИТМО (Санкт-Петербург)
+- ITMO University (Saint-Petersburg)
 - Мегафакультет ТИнТ (Трансляционных и Информационных технологий)
 - Факультет ИКТ (Инфокоммуникационных технологий)
 - Программа 11.03.04 (Инфокоммуникационные технологии и системы связи)
